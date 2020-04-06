@@ -2,7 +2,7 @@
 
 Depending on the methodology used, the approach to defining a task is not necessarily identical. In our situation, we will use the Agile Scrum methodology.
 
-![Agile Scrum](./resources/scrum-methodology.jpg)
+![Agile Scrum](./resources/agilescrum.png)
 
 This methodology requires that the different tasks are organized as a hierarchical tree, with at the top is the project, a first level composed of the epics that represents a major functionality of the project, to which are attached a multitude of smaller tasks.  It is the cumulative estimation of these small tasks that will give an overall view of the estimated time it will take to develop this functionality.
 In order to refine this estimate, it is then necessary to construct a Gantt chart, with some tasks being able to be carried out in parallel with others, and on the contrary, some tasks requiring that progress has already been made beforehand to be carried out.
