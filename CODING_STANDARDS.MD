@@ -152,4 +152,6 @@ Please contribute by following the GitFlow method described above.
 
 * A Successful Branching Model - https://nvie.com/posts/a-successful-git-branching-model/
 * How To Write A Commit Message - https://chris.beams.io/posts/git-commit/
-* Tips For Code Cleanliness
+* Tips For Code Cleanliness - https://www.sparkhound.com/blog/7-tips-for-code-cleanliness
+* Effective Coding stndards - https://codeahoy.com/2016/05/22/effective-coding-standards/
+* Coding conventions - https://en.wikipedia.org/wiki/Coding_conventions
